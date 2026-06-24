@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "cluster": "career-education",
+  "skills": [
+    {
+      "id": 233,
+      "name": "dyslexia-learning-material-converter",
+      "status": "completed",
+      "phases_completed": [0, 1, 2, 3, 4, 5],
+      "completed_at": "2026-06-24",
+      "tracking_file": "PROJECT-DEVELOPMENT-PHASE-TRACKING.md",
+      "test_report": "tests/test-results.md",
+      "knowledge_brain": "SECOND-KNOWLEDGE-BRAIN.md"
+    }
+  ]
+}

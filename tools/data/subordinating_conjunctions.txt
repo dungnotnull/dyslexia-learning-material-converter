@@ -1,0 +1,13 @@
+although
+because
+since
+though
+while
+whereas
+if
+unless
+until
+before
+after
+when
+whenever
